@@ -1,0 +1,6 @@
+ssh-keygen -t rsa -C "yourmail@glanway.com"
+
+
+
+git config --global user.name "自定义用户名"
+git config --global user.email "邮箱"
